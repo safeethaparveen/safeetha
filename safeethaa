@@ -1,0 +1,11 @@
+def saf(n):
+   if n%4==0:
+      return"leap year"
+   else:
+      return"not a leap year"
+print(saf(2000))
+print(saf(2007))
+      
+      
+      
+      
